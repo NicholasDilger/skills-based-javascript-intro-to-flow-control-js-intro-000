@@ -1,4 +1,5 @@
 function basicTeenager(age) {
+  if (ageChecker===13) {return "You are a teenager!"}
 }
 
 function teenager(age) {
